@@ -1,3 +1,3 @@
-# Practica 10 
-## _Login Básico con Sesiones, Registro y Lista de Usuarios en HTML, CSS, SQL y PHP_
-Este proyecto contiene un login con sesiones, registro de nuevos usuarios, y una página donde lista los usuarios de la base de datos luego de iniciar sesión, todo en PHP.
+# Portal de Inicio de Sesión
+## _Área: Prácticas_
+Esta práctica se enfoca en la implementación de un sistema de gestión de acceso de usuarios utilizando PHP y MySQL. El sistema consta de tres partes principales: el formulario de inicio de sesión, la página de registro de nuevos usuarios y la página de listado de usuarios una vez autenticados.
