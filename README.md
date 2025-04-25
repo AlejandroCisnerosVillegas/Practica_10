@@ -16,7 +16,7 @@ La práctica utiliza tecnologías web estándar como HTML, CSS, PHP y MySQL para
 
 La implementación de este sistema de gestión de acceso de usuarios proporciona una forma segura y eficiente de administrar las credenciales de los usuarios. Al utilizar tecnologías web ampliamente utilizadas como PHP y MySQL, se garantiza una compatibilidad sólida y un rendimiento confiable. Esta práctica es una adición valiosa a cualquier portafolio web, demostrando habilidades en el desarrollo de aplicaciones web seguras y funcionales.
 
-**Consulta la versión preliminar de la practica aquí:** [https://practica_10.com](https://alejandrovillegas.net/projects/practice-10/index.php)
+**Consulta la versión preliminar de la practica aquí:** [https://practica_10.com](https://www.alejandrovillegas.dev/projects/practice-10/index.php)
 
 # 📌 Información de la Practica
 
@@ -28,7 +28,7 @@ Esta practica ha sido desarrollado como parte del portafolio de soluciones tecno
 
 - **Fecha de Desarrollo**: 25 de octubre de 2018
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 # Guía de Instalación y Configuración
 
